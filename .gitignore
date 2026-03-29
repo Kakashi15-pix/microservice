@@ -1,0 +1,12 @@
+.env
+*.pem
+secrets.json
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+*.log
+temp/
+tmp/
